@@ -16,7 +16,7 @@ const Hero = () => {
             <div className="hero-content">
                 <h1 className="hero-title">V7 Resort</h1>
                 <p className="hero-subtitle">Luxury Awaits in Ahangama</p>
-                <a href="https://wa.me/94769243353?text=I'm interested in a reservation at V7 Resort" className="cta-button" target="_blank" rel="noopener noreferrer">Book Now</a>
+                <a href="#packages" className="cta-button">Explore Packages</a>
             </div>
         </section>
     );
