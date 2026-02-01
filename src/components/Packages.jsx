@@ -22,7 +22,15 @@ const Packages = () => {
                         <li>Complimentary WiFi</li>
                         <li>Daily Housekeeping</li>
                     </ul>
-                    <a href="https://wa.me/94769243353?text=I'm interested in the Daily Rate package" className="package-button" target="_blank" rel="noopener noreferrer">Book Now</a>
+                    <a
+                        href="https://wa.me/94769243353?text=I'm interested in the Daily Rate package"
+                        className="cta-button"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{ marginTop: '1rem' }}
+                    >
+                        Book Now
+                    </a>
                 </div>
 
                 <div className="package-card featured">
@@ -38,7 +46,15 @@ const Packages = () => {
                         <li>Flexible Check-in/out</li>
                         <li>Priority Support</li>
                     </ul>
-                    <a href="https://wa.me/94769243353?text=I'm interested in the Weekly Package" className="package-button" target="_blank" rel="noopener noreferrer">Book Now</a>
+                    <a
+                        href="https://wa.me/94769243353?text=I'm interested in the Weekly Package"
+                        className="cta-button"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{ marginTop: '1rem' }}
+                    >
+                        Book Now
+                    </a>
                 </div>
 
                 <div className="package-card">
@@ -53,7 +69,15 @@ const Packages = () => {
                         <li>Extended Stay Comfort</li>
                         <li>Personal Concierge</li>
                     </ul>
-                    <a href="https://wa.me/94769243353?text=I'm interested in the Monthly Package" className="package-button" target="_blank" rel="noopener noreferrer">Book Now</a>
+                    <a
+                        href="https://wa.me/94769243353?text=I'm interested in the Monthly Package"
+                        className="cta-button"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{ marginTop: '1rem' }}
+                    >
+                        Book Now
+                    </a>
                 </div>
             </div>
         </section>
