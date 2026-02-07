@@ -52,7 +52,7 @@ const Navbar = () => {
     return (
         <nav className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
             <div className="nav-container">
-                <div className="nav-logo">V7 Resort</div>
+                <div className="nav-logo">Cozy Garden</div>
                 <div className="nav-toggle" onClick={toggleMenu} style={{ display: 'flex' }}> {/* Ensure visible based on CSS usually but here we control via click */}
                     {/* The CSS handles display:none for desktop, but we need to ensure the spans animate */}
                     <span style={isMenuOpen ? { transform: 'rotate(45deg) translate(5px, 5px)' } : {}}></span>

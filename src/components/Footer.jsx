@@ -6,8 +6,8 @@ const Footer = () => {
     return (
         <footer className="footer">
             <div className="footer-content">
-                <div className="footer-logo">V7 Resort</div>
-                <p>&copy; {currentYear} V7 Resort. All rights reserved.</p>
+                <div className="footer-logo">Cozy Garden</div>
+                <p>&copy; {currentYear} Cozy Garden. All rights reserved.</p>
                 <p>Luxury accommodation in Ahangama</p>
             </div>
         </footer>

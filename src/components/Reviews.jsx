@@ -10,7 +10,7 @@ const Reviews = () => {
             <div className="reviews-container">
                 <div className="review-card">
                     <div className="review-stars">⭐⭐⭐⭐⭐</div>
-                    <p className="review-text">"Absolutely wonderful stay! The AC rooms were spotless and comfortable. The staff went above and beyond to make our vacation memorable. Highly recommend V7 Resort!"</p>
+                    <p className="review-text">"Absolutely wonderful stay! The AC rooms were spotless and comfortable. The staff went above and beyond to make our vacation memorable. Highly recommend Cozy Garden!"</p>
                     <div className="review-author">
                         <div className="author-avatar">S</div>
                         <div className="author-info">

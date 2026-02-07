@@ -14,7 +14,7 @@ const Hero = () => {
     return (
         <section id="home" className="hero" style={{ transform: `translateY(${offset * 0.5}px)` }}>
             <div className="hero-content">
-                <h1 className="hero-title">V7 Resort</h1>
+                <h1 className="hero-title">Cozy Garden</h1>
                 <p className="hero-subtitle">Luxury Awaits in Ahangama</p>
                 <a href="#packages" className="cta-button">Explore Packages</a>
             </div>
